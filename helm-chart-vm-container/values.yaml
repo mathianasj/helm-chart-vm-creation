@@ -1,0 +1,2 @@
+vm: 
+  source: docker://quay.io/mathianasj/testvm:latest
